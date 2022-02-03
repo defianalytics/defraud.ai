@@ -34,6 +34,17 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+podcasts:
+  - title:         Episode 1
+    mp3:           /assets/audios/episode1.mp3
+    ogg:           /assets/audios/episode1.ogg
+  - title:         Episode 2
+    mp3:           /assets/audios/episode2.mp3
+    ogg:           /assets/audios/episode2.ogg
+  - title:         Episode 3
+    mp3:           /assets/audios/episode3.mp3
+    ogg:           /assets/audios/episode3.ogg
  
 # Defaults
 defaults:

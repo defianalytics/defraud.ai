@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 domain: defianalytics.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://defianalytics.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /defraud.ai/
+baseurl: /defraud.ai                  # the folder where your content is placed
 disqus: ''
 email: ''
 mailchimp-list: ''

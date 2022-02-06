@@ -9,6 +9,7 @@ baseurl: /defraud.ai                  # the folder where your content is placed
 disqus: ''
 email: ''
 mailchimp-list: ''
+formspree: 'moqreywd'
 
 include: ["_pages"]
 permalink: /:title/

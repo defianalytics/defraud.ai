@@ -3,9 +3,9 @@ name: 'DeFraud'
 description: 'Place where people meet to discuss and know fraud within DeFi'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-domain: defianalytics.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://defianalytics.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /defraud.ai                  # the folder where your content is placed
+domain: defraud.ai           # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://www.defraud.ai  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: ''                  # the folder where your content is placed
 disqus: ''
 email: ''
 mailchimp-list: ''
